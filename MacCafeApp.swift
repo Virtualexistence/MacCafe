@@ -2,8 +2,6 @@
 //  MacCafeApp.swift
 //  MacCafe
 //
-//  Created on November 8, 2025
-//
 
 import SwiftUI
 
@@ -28,7 +26,7 @@ struct MacCafeApp: App {
                         options: [
                             .applicationName: "MacCafe",
                             .applicationVersion: "1.0.0",
-                            .credits: NSAttributedString(string: "© 2025 MacCafe\nKeep your Mac awake with style!"),
+                            .credits: NSAttributedString(string: "© MacCafe\nKeep your Mac awake with style!"),
                         ]
                     )
                 }

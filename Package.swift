@@ -20,7 +20,7 @@ let package = Package(
             name: "MacCafe",
             dependencies: [],
             path: ".",
-            exclude: ["Info.plist", "README.md", "build.sh"],
+            exclude: ["Info.plist", "README.md", "build.sh", "generate_xcode.sh"],
             sources: [
                 "MacCafeApp.swift",
                 "ContentView.swift",

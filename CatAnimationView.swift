@@ -2,8 +2,6 @@
 //  CatAnimationView.swift
 //  MacCafe
 //
-//  Created on November 8, 2025
-//
 
 import SwiftUI
 

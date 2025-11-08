@@ -32,7 +32,7 @@ A delightful macOS application that keeps your Mac awake with adorable cat anima
 
 1. Open Terminal and navigate to the project directory:
    ```bash
-   cd /Users/manideepghanta/Code_Repos/MacCafe
+   cd /path/to/MacCafe
    ```
 
 2. Generate an Xcode project:
@@ -54,7 +54,7 @@ A delightful macOS application that keeps your Mac awake with adorable cat anima
 
 1. Open Terminal and navigate to the project directory:
    ```bash
-   cd /Users/manideepghanta/Code_Repos/MacCafe
+   cd /path/to/MacCafe
    ```
 
 2. Build the application:
